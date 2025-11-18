@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Resource Manual
+description: A website for documenting the processes and decisions that go into creating the MSU Global DH Symposium
 theme: just-the-docs
 
-url: https://global-dh-symposium-documentation.github.io/
+url: https://global-dh-symposium-documentation.github.io/resource_manual/
 
 aux_links:
-  Template Repository: https://global-dh-symposium-documentation.github.io/resource-manual/
+  Template Repository: https://github.com/Global-DH-Symposium-Documentation/resource_manual
