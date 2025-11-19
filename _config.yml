@@ -7,3 +7,12 @@ url: https://global-dh-symposium-documentation.github.io/resource_manual/
 aux_links:
   #Template Repository: https://github.com/Global-DH-Symposium-Documentation/resource_manual
   Global DH Symposium: https://msuglobaldh.org/
+
+# Color scheme supports "light" (default) and "dark"
+# color_scheme: dark
+
+# Set a path/url to a logo that will be displayed instead of the title
+# logo: "/assets/images/just-the-docs.png"
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/favicon.ico"
