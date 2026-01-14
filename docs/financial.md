@@ -15,3 +15,8 @@ Expenses
     Translation
     Travel and lodging?
     Expenses regarding partner institutions
+
+
+Explanation of formal/institutional procedures Budget and financial allocations University-level permissions
+
+new institutional partners (UDEM)
