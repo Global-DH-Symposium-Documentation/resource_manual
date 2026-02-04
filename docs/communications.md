@@ -31,7 +31,6 @@ Follow the **roles** section for more details about internal communication throu
 ---
 
 ## PROMOTIONS
-
 ### Methods
 * **Social Media:** Multi-platform outreach.
 * **Events:** Promotional sessions and live Q&A sessions.
@@ -39,14 +38,14 @@ Follow the **roles** section for more details about internal communication throu
 
 ---
 
-## 🛠️ SYMPOSIUM PLATFORMS
+## SYMPOSIUM PLATFORMS
 
-#### 🔒 Private / Internal Tools
+#### Private / Internal Tools
 * **Coordination:** Email, Slack, Trello Board.
 * **Storage & Development:** Google Drive, GitHub Repo.
 * **Design:** Canva, Adobe InDesign.
 
-#### 🌍 Public / External Tools
+#### Public / External Tools
 * **Web Presence:** Official Website & Resource Manual.
 * **Social Channels:** Bluesky, Facebook, Mastodon, YouTube.
 * **Knowledge Commons:** *[Status Pending: Public or Private?]*
