@@ -4,122 +4,84 @@ layout: default
 nav_order: 3
 ---
 
-What is the cycle of the symposium? when does the 2024 symposium end and 2025 begin?
-
-Relevant due dates, i.e. cfp should be open on Sept 1 and reviews should begin on Nov 15 etc
-
-How do we choose symposium dates?
-
-##Two examples from SHARP -> link in the doc
-We want to create a similar timeline
-
-Timeline
-This timeline assumes a conference in June or July. Required deadlines are bolded. The other dates are suggested best practice.
-
-Pre-Conference Year
-Jan-March
-Meet with Director of Conferences
-Jan 30: Draft and submit proposal to the Director of Conferences
-March 30: Once proposal is accepted, review and sign the Memorandum of Understanding
-
-April-June
-Sign the Memorandum of Understanding
-Assemble committees: for example, organizing committee, program committee, events and partnerships committee
-Create a preliminary flyer, website, and/or logo
-
-July-September
-Attend SHARP conference to announce next year’s conference location at the AGM
-Talk to most recent host institutions at that year’s SHARP conference (optional)
-June/July: Book hotel blocks
-Complete budget
-Aug 1: Submit the CFP for approval to the Director of Conferences
-Sep 1: Circulate Call for Papers
-
-October-December
-October: Book venue (in-person) OR organize online platform (online)
-Oct 15: Finalize conference branding and website design
-Nov 1: Circulate 1-month reminder of CFP
-Nov 23: Circulate 1-week reminder of CFP
-November: Book excursions and get catering quotes (if using)
-Dec 1: Deadline for proposals
-Reach out to potential sponsors or exhibitors and apply for internal or external funding if desired
-Set up accounts to be used to pay vendors and for pass-through funds from SHARP for travel grants
-Work on marketing and promotion strategy
-Read the post-conference report from the last conference
-
-Conference Year
-Jan-March
-Review submissions and travel grant applications
-Feb 1: Notification of acceptance and rejection of submissions
-March 1: Circulate travel and lodging information (update website)
-Notification of travel grant acceptance/rejection
-Disburse SHARP travel grants to recipients
-Choose keynote speakers
-Create program
-Plan ECR events
-
-April-June
-April 1: Registration opens
-Include information about accommodation options and any excursions 
-April: confirm catering
-May 15: Send registration reminder and circulate program
-June 1: Close registration, circulate social media platform to registrants (if using) and send guidelines to panel chairs
-
-July-September
-Run the conference (typically in July)
-Aug 1: Close social media platform (if using)
-Sep 1: Send out the post-conference survey
-
-October-December
-Review updates to resources with Director of Conferences
-October 30: Submit final post-conference report
-
-Timeline
-You can find a more detailed version of this timeline in the Appendix.
-
-18 months before conference
-Meet with Director of Conferences
-Draft and submit proposal
-
-15 months before conference
-Proposal accepted! Sign Memorandum of Understanding
-Assemble committees
-Create a preliminary flyer, website, and/or logo
-
-12 months before conference
-Attend SHARP conference to announce next year’s conference location at the Annual General Meeting (AGM)
-Talk to most recent host institutions at that year’s SHARP conference (optional)
-Submit the Call for Papers (CFP) for approval to the Director of Conferences
-Complete budget
-Book hotel blocks
+# GDHS-Timeline
 
 
-6-9 months before conference
-Work on a marketing and promotion strategy
-Circulate Call for Papers (CFP) and reminders
-Finalize conference branding and website design
-Set up accounts to be used to pay vendors and for pass-through funds from SHARP for travel grants
-Book venue (in person) OR organize online platform (online)
-Book excursions and get catering quotes
-Read the post-conference report from the last conference
+The event planning begins almost a year before the actual dates. This document assumes that a symposium is scheduled for April.
 
-4-6 months before conference
-Review submissions and travel grant applications, notify applicants, and disburse SHARP travel grants to recipients
-Choose keynote speakers
-Create conference program
+---
 
-1-3 months before conference
-Open registration and circulate program
-Share social media platform and accounts with registrants
-Send guidelines to panel chairs
-Confirm catering
+## Monthly events
 
-Conference!
-Run the conference (typically in July)
-Close social media platform (if using) after the conference
+### July
+* Advisory and planning committee composition
+* Introductory meetings: Introduction of the symposium and the members of the planning and advisory committee in respective meetings
+* Reflections on the past symposium
+* Discussing the topic of interest
+* CFP draft is created
+* Brainstorming, Nominating and Establishing communication with the Partner organisation for the next Symposium
 
-3-5 months post-conference
-Send out the post-conference survey
-Review updates to conference planning resources with Director of Conferences
-Submit final post-conference report
+### August
+* CFP Sent:  Do we have a specific number of days to publish the CFP before the CFP deadline?
+* Keynotes are suggested and discussed
+* Timeframe discussion for the symposium
+* Review proposal guidelines and review criteria
+
+### September
+* CFP Reminder:  Do we have a specific number of days to send a reminder before the CFP deadline?
+* CFP promotion strategy is devised
+* CFP promotional event and Q&A session
+* Reviewer recruitment strategy discussed
+* Reviewer Sign-up invitation:  Do we have a specific number of days to send an invitation for reviewer sign-up before the first CFP deadline?
+* Finalising partner organisation for the next symposium
+
+### October
+* CFP Final Reminder: Do we have a specific number of days to send a final reminder before the CFP’s first deadline?
+* Keynote invitations: Do we have a specific number of days to send keynote invitations before the CFP’s first deadline?
+* Keynote announcement: Do we have a specific number of days to announce keynotes before, with or after the CFP’s first deadline?
+* Reviewer Sign-up Deadline:  Do we have a specific number of days to sign-up reviewers before/after the CFP’s first deadline?
+* Proposal sent out for review via Oxford Abstracts after ___ days of deadline. 
+* Outreach strategies are discussed
+
+### November
+* Reviewer deadline: Reviewers usually have 1 month to review the proposals.
+* Decision-Making Days
+* Sponsorship and Budget Strategy
+
+### December
+* Reflections on reviews and review process
+* Decision notifications are sent out via email. How many days after the deadline and how many days before the conference?
+* Registration open for presenters: How many days after the deadline and how many days before the conference?
+* Travel Funding Application Deadline: Applications are accepted until the ___ business days after the decision notifications.
+* Deadline for presenters to confirm their participation: Participants usually get two business weeks to confirm their participation decision.
+* Registration is open for all
+* Program Release: The program is released around 3 months before the event.
+
+### January
+* Registration reminder
+* Sending promotion messages
+* The timeline for next year's symposium planning is discussed
+
+### February
+* Reminder for Presenters to share Presenters' release form, slides, recordings, etc
+* Registration reminder to all
+* Announcements on social media
+
+### March
+* Deadline for Presenters to share the release form, presentations, interpretations, texts, recordings, posters, etc.
+* Final Registration reminder
+
+### April
+**SYMPOSIUM DAYS**
+* Day 1
+* Day 2
+* Day 3
+* Reminder of the deadline for presenters to submit materials for inclusion in the Proceedings.
+
+### May
+* Deadline for presenters to submit materials for inclusion in the Proceedings.
+
+### June
+* (No specific tasks listed)
+
 
