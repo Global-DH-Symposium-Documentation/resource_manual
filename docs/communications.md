@@ -4,26 +4,24 @@ layout: default
 nav_order: 7
 ---
 
-
-
-# GDHS Communication and Marketing
+<h1 style="text-align: center;">GDHS Communication and Marketing</h1>
 
 ---
 
-## 📢 COMMUNICATION
-
-
+<h2 style="text-align: center;">COMMUNICATION</h2>
 
 <details>
 <summary><b>🌐 Internal Communication</b></summary>
 
 Follow the Roles section for more details about internal communication through **Advisory Committee** and **Planning Committee**.
+
 </details>
 
 <details>
 <summary><b>🌐 External Communication</b></summary>
 
 #### Presenters and Registered Participants
+
 * **CFP & Submissions:** Managed via **Oxford Abstracts**.
 * **Outreach:** Primary communication via **Email**.
 * **Materials & Deliverables:**
@@ -33,17 +31,15 @@ Follow the Roles section for more details about internal communication through *
 * **Archives:** Sessions hosted on **YouTube**.
 
 #### Public
+
 * **CFP:** Publicly advertised.
 * **Platforms:** Engagement via public-facing social and academic platforms.
+
 </details>
 
 <br>
 
-
-
-## PROMOTIONS
-
-
+<h2 style="text-align: center;">PROMOTIONS</h2>
 
 <details>
 <summary><b>Methods</b></summary>
@@ -51,26 +47,26 @@ Follow the Roles section for more details about internal communication through *
 * **Social Media:** Multi-platform outreach.
 * **Events:** Promotional sessions and live Q&A sessions.
 * **Watch Parties:** During the Symposium Days.
+
 </details>
 
 <br>
 
-
-
-## SYMPOSIUM PLATFORMS
-
-
+<h2 style="text-align: center;">SYMPOSIUM PLATFORMS</h2>
 
 <details>
 <summary><b>Symposium Platforms</b></summary>
 
 **Private / Internal Tools**
+
 * **Coordination:** Email, Slack, Trello Board.
 * **Storage & Development:** Google Drive, GitHub Repo.
 * **Design:** Canva, Adobe InDesign.
 
 **Public / External Tools**
+
 * **Web Presence:** Official Website & Resource Manual.
 * **Social Channels:** Bluesky, Facebook, Mastodon, YouTube.
 * **Knowledge Commons:** *[Status Pending: Public or Private?]*
+
 </details>
