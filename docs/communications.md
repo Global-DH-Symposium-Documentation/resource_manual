@@ -6,8 +6,12 @@ nav_order: 7
 <div align="center">
 
    # GDHS Communication and Marketing
+</div>
+<br>
 
-## 📢 COMMUNICATION
+<div align="center">
+
+   ## 📢 COMMUNICATION
 
 </div>
 
@@ -56,13 +60,15 @@ Follow the Roles section for more details about internal communication through *
 <details>
 <summary><b>Symposium Platforms</b></summary>
 <br>
-  
+   
 * **Private / Internal Tools**
-* **Coordination:** Email, Slack, Trello Board.
-* **Storage & Development:** Google Drive, GitHub Repo.
-* **Design:** Canva, Adobe InDesign.
+   * Coordination: Email, Slack, Trello Board.
+   * Storage & Development: Google Drive, GitHub Repo.
+   * Design: Canva, Adobe InDesign.
+<br>
 
 * **Public / External Tools**
-* **Web Presence:** Official Website & Resource Manual.
-* **Social Channels:** Bluesky, Facebook, Mastodon, YouTube.
-* **Knowledge Commons:** *[Status Pending: Public or Private?]*
+   * Web Presence: Official Website & Resource Manual.
+   * Social Channels: Bluesky, Facebook, Mastodon, YouTube.
+   * Knowledge Commons: *[Status Pending: Public or Private?]*
+</details>
