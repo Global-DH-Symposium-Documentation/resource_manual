@@ -16,14 +16,12 @@ nav_order: 7
 
 <details>
 <summary><b>🌐 Internal Communication</b></summary>
-<br>
 
 Follow the Roles section for more details about internal communication through **Advisory Committee** and **Planning Committee**.
 </details>
 
 <details>
 <summary><b>🌐 External Communication</b></summary>
-<br>
 
 #### Presenters and Registered Participants
 * **CFP & Submissions:** Managed via **Oxford Abstracts**.
@@ -37,20 +35,18 @@ Follow the Roles section for more details about internal communication through *
 #### Public
 * **CFP:** Publicly advertised.
 * **Platforms:** Engagement via public-facing social and academic platforms.
-
 </details>
 
 <br>
 
 <div align="center">
 
-##  PROMOTIONS
+## 🚀 PROMOTIONS
 
 </div>
 
 <details>
 <summary><b>Methods</b></summary>
-<br>
 
 * **Social Media:** Multi-platform outreach.
 * **Events:** Promotional sessions and live Q&A sessions.
@@ -61,22 +57,19 @@ Follow the Roles section for more details about internal communication through *
 
 <div align="center">
 
-##  SYMPOSIUM PLATFORMS
+## 🛠️ SYMPOSIUM PLATFORMS
 
 </div>
 
 <details>
-<summary><b>View All Platforms</b></summary>
-<br>
+<summary><b>Symposium Platforms</b></summary>
 
-**🔒 Private / Internal Tools**
+**Private / Internal Tools**
 * **Coordination:** Email, Slack, Trello Board.
 * **Storage & Development:** Google Drive, GitHub Repo.
 * **Design:** Canva, Adobe InDesign.
 
-<br>
-
-**🌍 Public / External Tools**
+**Public / External Tools**
 * **Web Presence:** Official Website & Resource Manual.
 * **Social Channels:** Bluesky, Facebook, Mastodon, YouTube.
 * **Knowledge Commons:** *[Status Pending: Public or Private?]*
