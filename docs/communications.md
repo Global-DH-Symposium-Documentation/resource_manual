@@ -8,11 +8,13 @@ nav_order: 7
    # GDHS Communication and Marketing
 
 ## 📢 COMMUNICATION
+
 </div>
+
 <details>
 <summary><b> 🌐 Internal Communication</b></summary>
 <br>
-Follow Roles section for more details about internal communication through **Advisory Committee** and **Planning Committee**
+Follow the Roles section for more details about internal communication through **Advisory Committee** and **Planning Committee**
 </details>
 
 <details>
@@ -36,8 +38,9 @@ Follow Roles section for more details about internal communication through **Adv
 <br>
 
 <div align="center"> 
+   
+   ## PROMOTIONS
 
-  ## PROMOTIONS
 </div>
 
 <details>
