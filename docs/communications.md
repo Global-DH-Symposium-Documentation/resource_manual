@@ -4,7 +4,7 @@ layout: default
 nav_order: 7
 ---
 
-<div align="center">
+
 
 # GDHS Communication and Marketing
 
@@ -12,7 +12,7 @@ nav_order: 7
 
 ## 📢 COMMUNICATION
 
-</div>
+
 
 <details>
 <summary><b>🌐 Internal Communication</b></summary>
@@ -39,11 +39,11 @@ Follow the Roles section for more details about internal communication through *
 
 <br>
 
-<div align="center">
 
-## 🚀 PROMOTIONS
 
-</div>
+## PROMOTIONS
+
+
 
 <details>
 <summary><b>Methods</b></summary>
@@ -55,11 +55,11 @@ Follow the Roles section for more details about internal communication through *
 
 <br>
 
-<div align="center">
 
-## 🛠️ SYMPOSIUM PLATFORMS
 
-</div>
+## SYMPOSIUM PLATFORMS
+
+
 
 <details>
 <summary><b>Symposium Platforms</b></summary>
