@@ -7,7 +7,7 @@ nav_order: 3
 # GDHS-Timeline
 
 
-The event planning begins almost a year before the actual dates. This document assumes that a symposium is scheduled for April.
+Strategic planning for the symposium follows a 12-month cycle. This draft outlines the milestones for an April event date.
 
 ---
 
