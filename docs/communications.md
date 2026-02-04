@@ -4,7 +4,8 @@ layout: default
 nav_order: 7
 ---
 <div align="center">
-# GDHS Communication and Marketing
+
+   # GDHS Communication and Marketing
 
 ## 📢 COMMUNICATION
 </div>
