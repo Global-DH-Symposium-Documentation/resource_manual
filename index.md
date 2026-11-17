@@ -31,7 +31,7 @@ The *Resource Manual* is not our main website. For information about this year's
 > |------|--------------|------|
 > | Merve Tekgürler | Home; Roles; Further Readings | November 2026 |
 > | Jen Andrella | Reviews | January 2026 |
-> | Husnain | Timelines of the Symposium; Communications and Marketing | January 2026 |
-> | Simran | Logistics and Infrastructure | November 2026 |
-> | Arun | Program Elements | 2026 |
+> | Husnain Raza | Timelines of the Symposium; Communications and Marketing | January 2026 |
+> | Simran Bhimjyani | Logistics and Infrastructure | November 2026 |
+> | Arun Jacob| Program Elements | 2026 |
 
