@@ -77,11 +77,12 @@ Strategic planning for the symposium follows a 12-month cycle. This draft outlin
 * Day 2
 * Day 3
 * Reminder of the deadline for presenters to submit materials for inclusion in the Proceedings.
+* Post-symposium survey
 
 ### May
 * Deadline for presenters to submit materials for inclusion in the Proceedings.
 
 ### June
-* (No specific tasks listed)
+* Circulating a call for applications to the next year's Advisory and Planning Committees to this year's presenters and reviewers
 
 
