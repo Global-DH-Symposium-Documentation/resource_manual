@@ -8,15 +8,15 @@ The resources manual also acts as a venue for storing and disseminating material
 
 ## Readings list, in reverse chronological order
 
-- Mapes, Kristen, Kate Topham and Arun Jacob. 2024. "Reinvention as DH Praxis: Reflecting on (Nearly) a Decade of the Global DH Symposium." *ADHO Digital Humanities Conference 2024*. 
+### Mapes, Kristen, Kate Topham and Arun Jacob. 2024. "Reinvention as DH Praxis: Reflecting on (Nearly) a Decade of the Global DH Symposium." *ADHO Digital Humanities Conference 2024*. 
 
 The Global DH Symposium foregrounds voices from the Global South and marginalized communities. This poster focuses on three areas of reinvention driven by our values and speaks to the ways that we hold ourselves responsible to the community we have cultivated: (1) open peer review; (2) modality; (3) publication venues.
 
 Poster available on Knowledge Commons: https://works.hcommons.org/records/kqfvy-wcm35 
 
-- Hughes-Barrow, Taylor, Arun Jacob, Viola Lasmana, Kristen Mapes, and Kate Topham. 2024 "Unit II: Ethics, Legal and Moral Frameworks: 2.9 Global Digital Humanities Symposium." In *Social Justice in the Digital Humanities*. #dariahteach Project: Open Educational Resources (OER) for Digital Arts and Humanities. https://teach.dariah.eu/mod/lesson/view.php?id=1948&pageid=2040 
+### Hughes-Barrow, Taylor, Arun Jacob, Viola Lasmana, Kristen Mapes, and Kate Topham. 2024 "Unit II: Ethics, Legal and Moral Frameworks: 2.9 Global Digital Humanities Symposium." In *Social Justice in the Digital Humanities*. #dariahteach Project: Open Educational Resources (OER) for Digital Arts and Humanities. https://teach.dariah.eu/mod/lesson/view.php?id=1948&pageid=2040 
 
-- Ball, Heather F., Viola Lasmana, Kristen Mapes, Ysabel Muñoz Martinez, and Merve Tekgürler, eds. *Reviews in DH* Vol. 4, No 11 & 12. November-December 2023
+### Ball, Heather F., Viola Lasmana, Kristen Mapes, Ysabel Muñoz Martinez, and Merve Tekgürler, eds. *Reviews in DH* Vol. 4, No 11 & 12. November-December 2023
 
 This special issue of Reviews in Digital Humanities provides a small sampling of projects from the 46 presentations at the 2023 symposium and more than 80 symposium applications (the full array is accessible in the Global DH Symposium proceedings published on Humanities Commons). Our selection process for this special issue was iterative and collaborative, beginning in Fall 2022 after publishing the 2023 Call for Papers, determined by this issue’s editors at the recommendation of the symposium reviewers, and based on a specific set of criteria (including relevance to our Global DH Symposium ethos and praxis, accessibility, aesthetics, and content). Our goal is for this issue to serve multiple audiences and settings: digital humanities practitioners and scholars, students, teachers, academics and non-academics alike, activists, and the curious reader. We are also mindful of showcasing projects that may not have found extensive representation in the global digital humanities community, and that deserve greater visibility.
 
@@ -24,7 +24,7 @@ This special issue is divided across two volumes, with projects published in alp
 
 Links to the issues: https://reviewsindh.pubpub.org/v4-n11; https://reviewsindh.pubpub.org/v4-n12 
 
-- Mapes, Kristen, Kate Topham, Devin Higgins, Taylor Hughes-Barrow, Viola Lasmana, and Merve Tekgürler. 2023. "Conference Planning as DH Praxis: Lessons Learned from Putting Values into Action in the Global Digital Humanities Symposium." *HASTAC 2023*
+### Mapes, Kristen, Kate Topham, Devin Higgins, Taylor Hughes-Barrow, Viola Lasmana, and Merve Tekgürler. 2023. "Conference Planning as DH Praxis: Lessons Learned from Putting Values into Action in the Global Digital Humanities Symposium." *HASTAC 2023*
 
 Conferences are activities through which communities come together to exchange knowledge, provide feedback, and inspire change. Yet, the process of organizing and cultivating community through these events is rarely discussed as a form of digital humanities praxis. In this presentation, we will share the values, processes, and challenges behind the Global Digital Humanities Symposium. We see this presentation as an act of transparency and humility through which we hope to begin a conversation with the audience so we can also learn and improve while also sharing our expertise and commitments.
 
